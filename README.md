@@ -61,6 +61,10 @@ The Power BI dashboard includes:
 
 ---
 
+## Dashboard Preview
+
+
+
 ## How to Use This Project
 
 1. Open the Jupyter Notebook to view data cleaning and analysis steps.
