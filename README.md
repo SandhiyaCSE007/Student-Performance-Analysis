@@ -63,7 +63,7 @@ The Power BI dashboard includes:
 
 ## Dashboard Preview
 
-
+https://github.com/SandhiyaCSE007/Student-Performance-Analysis/blob/main/dashboard.jpeg
 
 ## How to Use This Project
 
